@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MovieAgent</string>
+    <string name="history">История диалогов</string>
+    <string name="back">Назад</string>
+    <string name="message_placeholder">Сообщение</string>
+    <string name="send">Отправить</string>
+</resources>
